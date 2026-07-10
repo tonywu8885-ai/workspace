@@ -1,0 +1,17 @@
+{
+  "appId": "com.yiyao.weeklyreport",
+  "appName": "公共关系部周报工作台",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#ffffffff"
+  },
+  "plugins": {
+    "Preferences": {
+      "prefix": "weekly"
+    }
+  }
+}
